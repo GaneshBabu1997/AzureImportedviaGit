@@ -1,0 +1,14 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      https://maven.apache.org/xsd/settings-1.0.0.xsd">
+<servers>                     
+<server>
+<id>dev-azure-com-ganeshj1409-ganeshj1409</id>
+<username>ganeshj1409</username>
+<!-- Treat this auth token like a password. Do not share it with anyone, including Microsoft support. -->
+<!-- The generated token expires on or before 12/22/2019 -->
+<password>dhpsflflngyim5qdm7fkwyy5bgvelbozsl3urbomxhgel2lkqyyq</password>
+</server>
+</servers>
+</settings>
